@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomYoutube</string>
+    <string-array name="spinnerItems">
+        <item>K-List</item>
+        <item>5* List</item>
+        <item>4* List</item>
+    </string-array>
+</resources>
